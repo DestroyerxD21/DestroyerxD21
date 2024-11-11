@@ -2,7 +2,7 @@
 Hello!! my name is Valentin Martinez  I a'm a professional developer and I love my job and I also love everything related to IT industrie.
 
 About me:
-I´m a lover of Security 🔐 , Networking ☁️ , 🌟 Astronomy ,  FullStack💻 , Videogames🎮 , Hacking 🕶 , English 📘 .
+I´m a lover of Security 🔐 , Networking ☁️ ,  FullStack💻 , Videogames🎮 , Hacking 🕶 , English 📘 .
 
  
 
